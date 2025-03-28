@@ -1,0 +1,38 @@
+.header_img {
+    width: 300px;
+}
+
+header ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: black;
+    color: white;
+}
+
+header li {
+    list-style: none;
+    margin-right: 60px;
+}
+
+main {
+    display:flex;
+    width: 100%;
+}
+.left {
+    width: 70%;
+}
+.left img {
+    width: 100%;
+}
+.box {
+    width: 100%;
+    background-color: lightgray;
+}
+.right {
+    width: 30%;
+}
+.right img {
+    width: 100%;
+}
